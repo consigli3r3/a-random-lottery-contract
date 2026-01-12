@@ -1,5 +1,10 @@
 # Decentralized Provably Fair Lottery
 
+## Author
+* **Gavin Singh** * **GitHub:** [@consigli3r3](https://github.com/consigli3r3)
+* **LinkedIn:** [Gavin Singh](https://www.linkedin.com/in/gavinsingh97/)
+* **X (Twitter):** [@consigli3re](https://x.com/consigli3re)
+
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Solidity](https://img.shields.io/badge/Solidity-%5E0.8.18-363636)
 ![Framework](https://img.shields.io/badge/Framework-Foundry-orange)
@@ -88,15 +93,5 @@ I have optimized the deployment flow using a **Makefile** to handle long Foundry
 To deploy to Sepolia and automatically verify the contract on Etherscan:
 ```bash
 make deploy ARGS="--network sepolia"
-
-<br />
-
----
-
-## 👤 Author
-
-* **Gavin Singh** * **GitHub:** [@consigli3r3](https://github.com/consigli3r3)
-* **LinkedIn:** [Gavin Singh](https://www.linkedin.com/in/gavinsingh97/)
-* **X (Twitter):** [@consigli3re](https://x.com/consigli3re)
 
 ---
