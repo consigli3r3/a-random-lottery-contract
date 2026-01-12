@@ -89,6 +89,8 @@ To deploy to Sepolia and automatically verify the contract on Etherscan:
 ```bash
 make deploy ARGS="--network sepolia"
 
+<br />
+
 ---
 
 ## 👤 Author
@@ -96,3 +98,5 @@ make deploy ARGS="--network sepolia"
 * **Gavin Singh** * **GitHub:** [@consigli3r3](https://github.com/consigli3r3)
 * **LinkedIn:** [Gavin Singh](https://www.linkedin.com/in/gavinsingh97/)
 * **X (Twitter):** [@consigli3re](https://x.com/consigli3re)
+
+---
